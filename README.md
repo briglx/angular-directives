@@ -1,7 +1,7 @@
 Angular Directives
 ==================
 
-Customized directives based on angular-strap
+Customized directives based on angular-strap and work from [Adam Tuttle's](http://fusiongrokker.com) [customization to bootstrap typeahead](http://fusiongrokker.com/post/heavily-customizing-a-bootstrap-typeahead).
 
 ## Quick Start
 
